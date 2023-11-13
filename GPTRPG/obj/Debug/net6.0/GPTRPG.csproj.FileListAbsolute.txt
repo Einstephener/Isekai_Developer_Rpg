@@ -1,0 +1,14 @@
+D:\VisualStudioExample\GPTRPG\GPTRPG\bin\Debug\net6.0\GPTRPG.exe
+D:\VisualStudioExample\GPTRPG\GPTRPG\bin\Debug\net6.0\GPTRPG.deps.json
+D:\VisualStudioExample\GPTRPG\GPTRPG\bin\Debug\net6.0\GPTRPG.runtimeconfig.json
+D:\VisualStudioExample\GPTRPG\GPTRPG\bin\Debug\net6.0\GPTRPG.dll
+D:\VisualStudioExample\GPTRPG\GPTRPG\bin\Debug\net6.0\GPTRPG.pdb
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\GPTRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\GPTRPG.AssemblyInfoInputs.cache
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\GPTRPG.AssemblyInfo.cs
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\GPTRPG.csproj.CoreCompileInputs.cache
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\GPTRPG.dll
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\refint\GPTRPG.dll
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\GPTRPG.pdb
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\GPTRPG.genruntimeconfig.cache
+D:\VisualStudioExample\GPTRPG\GPTRPG\obj\Debug\net6.0\ref\GPTRPG.dll
